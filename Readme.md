@@ -1,6 +1,6 @@
 # Brickworld
 
-Project based on the game "Minecraft
+Project based on the game "Minecraft"
 
 ## Features
 
